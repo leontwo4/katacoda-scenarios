@@ -1,10 +1,8 @@
-# Interactive Katacoda Scenarios
+# [Interactive Katacoda Scenario](https://www.katacoda.com/twofour/scenarios/json-in-postresql)
 
-[![](http://shields.katacoda.com/katacoda/twofour/count.svg)](https://www.katacoda.com/twofour "Get your profile on Katacoda.com")
+### Portfolio im Rahmen der Vorlesung Data Management Fundamentals im Kurs WWI2019F
 
-Visit https://www.katacoda.com/twofour to view the profile and interactive scenarios
+**Abgabe von Leon Jansen**
+# JSON in PostgreSQL
 
-### Writing Scenarios
-Visit https://www.katacoda.com/docs to learn more about creating Katacoda scenarios
-
-For examples, visit https://github.com/katacoda/scenario-example
+Dieses Katacoda erklärt den Umgang mit JSON in PostgreSQL.
