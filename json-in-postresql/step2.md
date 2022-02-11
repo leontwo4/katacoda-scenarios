@@ -5,7 +5,7 @@ docker exec -it postgres-katacoda psql -U postgres
 
 # JSON Feld in PostgreSQL einfügen
 
-Mit folgendem Befehl wird eine Tabelle *student* erstellt.
+Mit folgendem Befehl wird eine Tabelle *students* erstellt.
 
 ```
 CREATE TABLE students (
